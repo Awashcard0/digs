@@ -2,3 +2,12 @@
     border-radius: 5px;
     text-align: center;
 }
+
+.price {
+    text-align: center;
+    border-color: black;
+    background-color: aliceblue;
+    border-width: 3px;
+    border-radius: 3px;
+    
+}
