@@ -1,6 +1,7 @@
 .he {
     border-radius: 5px;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .price {
@@ -9,5 +10,5 @@
     background-color: aliceblue;
     border-width: 30px;
     border-radius: 3px;
-    
+    font-family: 'Open Sans', sans-serif;
 }
