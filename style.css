@@ -14,3 +14,10 @@
     border-radius: 3px;
     font-family: 'Open Sans', sans-serif;
 }
+
+.back {
+    background-image: url('/media/34a7a7af-12b8-482d-8607-0bac2e31a7dc.jpg')
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
