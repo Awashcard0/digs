@@ -15,7 +15,7 @@ function openNav() {
 
 if(window.innerHeight > window.innerWidth){
     // Portrait
-    location.href = "/m"
+    // location.href = "/m"
 } else {
 	// Landscape
   location.href = "/"

@@ -9,7 +9,7 @@
     location.href = "/m"
 } else {
 	// Landscape
-  location.href = "/"
+  // location.href = "/"
 }
 
 function openNav() {
